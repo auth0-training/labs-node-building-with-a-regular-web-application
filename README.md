@@ -1,4 +1,4 @@
-[![Auth0 Training](https://user-images.githubusercontent.com/73120/125103885-a2bb5d80-e091-11eb-8084-383003f1e484.png "Auth0 Training")](https://training.auth0.com)
+[![Auth0 Training](https://user-images.githubusercontent.com/73120/125103885-a2bb5d80-e091-11eb-8084-383003f1e484.png "Okta Learning")](https://learning.okta.com)
 
 # Lab Node Create an Application
 
